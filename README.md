@@ -3,6 +3,8 @@
 ### Education
 
 Bachelor of Science in Computer Science
+
+### School
 Gordon College (2020 - 2024)
 
 
