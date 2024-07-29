@@ -1,5 +1,9 @@
 # John Patrick Flores
 
+### About Me
+A passionate, creative, and committed individual passionate about creating innovative approaches. Shows ability to work with various teams, manage projects effectively, and produce excellent outcomes.
+
+
 ### Education
 
 Bachelor of Science in Computer Science
