@@ -1,0 +1,27 @@
+ion-header{
+    background-color: darkblue;
+  }
+  ion-menu-button{
+    color: white;
+  }
+//   ion-card{
+//     background-color: #8c0e0f;
+//   }
+  .green-circle {
+    color: green;
+    font-size: 1.5rem;
+    margin-right: 8px;
+    }
+    .icon{
+        margin-right: 10px;
+    }
+    ion-card {
+        position: relative; /* Set the card as a relative positioned container */
+      }
+      
+      .trash-button {
+        position: absolute; /* Set the trash button as an absolute positioned element */
+        bottom: 5px; /* Adjust this value as needed to control the distance from the bottom */
+        right: 5px; /* Adjust this value as needed to control the distance from the right */
+      }
+      

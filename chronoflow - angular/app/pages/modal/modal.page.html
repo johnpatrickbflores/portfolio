@@ -1,0 +1,52 @@
+<ion-header>
+  <ion-toolbar color="secondary">
+    <ion-title>Details</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="dismissModal()">
+        <ion-icon name="close"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="note">
+    <ion-item>
+      <ion-label position="stacked">Title</ion-label>
+      <ion-input [(ngModel)]="note.title"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Description</ion-label>
+      <ion-textarea [(ngModel)]="note.description" rows="8"></ion-textarea>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Start Time</ion-label>
+      <ion-datetime
+        display-format="MMM D, YYYY HH:mm"
+        picker-format="MMM D, YYYY HH:mm"
+        [(ngModel)]="note.startTime"
+      ></ion-datetime>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">End Time</ion-label>
+      <ion-datetime
+        display-format="MMM D, YYYY HH:mm"
+        picker-format="MMM D, YYYY HH:mm"
+        [(ngModel)]="note.endTime"
+      ></ion-datetime>
+    </ion-item>
+  </div>
+
+  <ion-button expand="block" color="success" (click)="updateNote()">
+    <ion-icon name="save" slot="start"></ion-icon>
+    Update
+  </ion-button>
+  <ion-button expand="block" color="danger" (click)="deleteNote()">
+    <ion-icon name="trash" slot="start"></ion-icon>
+    Delete
+  </ion-button>
+
+</ion-content>

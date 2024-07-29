@@ -1,0 +1,32 @@
+/* tasks.page.scss */
+
+ion-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  ion-label h2 {
+    font-size: 24px; /* Change the font size as desired */
+    margin-right: 10px; /* Add spacing between the title and time */
+  
+  }
+  
+  ion-label p {
+    font-size: 15px;
+    margin: 5px 0; /* Add spacing between the time elements */
+  }
+  
+ion-header{
+  background-color: darkblue;
+}
+ion-menu-button{
+  color: white;
+}
+/* styles.scss or tasks.page.scss */
+.green-circle {
+  color: aqua;
+  font-size: 1.5rem;
+  margin-right: 8px;
+}
+
+
