@@ -10,17 +10,5 @@ Gordon College (2020 - 2024)
 
 ### Experience
 
-#### Company
-- Iphitech IT and Digital Solutions Corporation
-#### Job
-- Web Developer (Internship)
-#### Date
-- February 5, 2024 - May 3, 2024
-
-
-#### Company
-- The IIT Hub
-#### Job
-- Digital Marketer (Internship)
-#### Date
-- June 8, 2021 - September 24, 2021
+- Iphitech IT and Digital Solutions Corporation | Web Developer (Internship) | February 5, 2024 - May 3, 2024
+- The IIT Hub | Digital Marketer (Internship) | June 8, 2021 - September 24, 2021
