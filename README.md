@@ -17,7 +17,6 @@ Gordon College (2020 - 2024)
 #### Date
 - February 5, 2024 - May 3, 2024
 
-####### 
 
 #### Company
 - The IIT Hub
