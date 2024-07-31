@@ -20,3 +20,6 @@ Gordon College (2020 - 2024)
 
 ### LinkedIn
 - linkedin.com/in/john-patrick-flores-48107731a
+
+### Project Created
+https://c-shore1.000webhostapp.com/home.php
