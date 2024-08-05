@@ -22,4 +22,8 @@ Gordon College (2020 - 2024)
 - linkedin.com/in/john-patrick-flores-48107731a
 
 ### Project Created
+#### CSHORE
 https://c-shore1.000webhostapp.com/home.php
+
+#### KONEKTOBET
+https://konektobet-quantumx.000webhostapp.com/#/
